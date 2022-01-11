@@ -1,0 +1,6 @@
+[submodule "scheduler-api"]
+	path = scheduler-api
+	url = https://github.com/AbdelrahmanZaytoun/scheduler-api
+[submodule "shceduler-web"]
+	path = shceduler-web
+	url = https://github.com/AbdelrahmanZaytoun/shceduler-web
