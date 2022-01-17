@@ -1,7 +1,7 @@
 ## About The Project
 
-![Screenshot](https://github.com/AbdelrahmanZaytoun/scheduler/blob/master/first.png?raw=true)
-![Screenshot](https://github.com/AbdelrahmanZaytoun/scheduler/blob/master/second.png?raw=true)
+![Screenshot](https://github.com/AbdelrahmanZaytoun/scheduler-app/blob/master/first.png?raw=true)
+![Screenshot](https://github.com/AbdelrahmanZaytoun/scheduler-app/blob/master/second.png?raw=true)
 
 ## Getting Started
 
